@@ -1,3 +1,4 @@
+<div align="center">
 ## An exercise
 
 This program will let you load 15 numbers.
